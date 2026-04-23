@@ -22,7 +22,7 @@ const Navbar = () => {
           <img src={linkedin} className="w-6 h-6 cursor-pointer" />
           <img src={youtube} className="w-6 h-6 cursor-pointer" />
           <img src={instagram} className="w-6 h-6 cursor-pointer" />
-          <img src={facebook} className="w-6 h-6 cursor-pointer" />
+          <img src={facebook} className="w-6 h-6 cursor-pointer -ml-1 sm:ml-0" />
         </div>
 
         {/* DESKTOP MENU */}
